@@ -1,0 +1,7 @@
+:global {
+  @import '~react-select/dist/react-select.min.css'
+}
+
+:global .Select-menu-outer {
+  z-index: 10;
+}

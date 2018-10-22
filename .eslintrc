@@ -1,0 +1,17 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "object-shorthand": [2, "always"],
+        "linebreak-style": ["error", "windows"],
+        "no-underscore-dangle": ["error", { "allowAfterThis": true }],
+        "space-before-function-paren": ["error", "always"],
+        "max-len": ["warn", { "code": 120 }],
+        "react/prop-types": "error",
+        "react/jsx-uses-react": "error",
+        "react/jsx-uses-vars": "error"
+    },
+    "parser": "babel-eslint"
+}

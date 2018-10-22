@@ -1,0 +1,548 @@
+[
+  {
+    "exchange_id": "OKCOIN_CNY",
+    "website": "https://www.okcoin.cn/",
+    "name": "OKCoin CNY",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITTREX",
+    "website": "https://bittrex.com/",
+    "name": "Bittrex",
+    "coinigyId": "BTRX"
+  },
+  {
+    "exchange_id": "POLONIEX",
+    "website": "https://poloniex.com/",
+    "name": "POLONIEX",
+    "coinigyId": "PLNX"
+  },
+  {
+    "exchange_id": "BITFINEX",
+    "website": "https://www.bitfinex.com/",
+    "name": "Bitfinex",
+    "coinigyId": "BITF"
+  },
+  {
+    "exchange_id": "COINBASE",
+    "website": "https://www.gdax.com/",
+    "name": "GDAX",
+    "coinigyId": "GDAX"
+  },
+  {
+    "exchange_id": "KRAKEN",
+    "website": "https://www.kraken.com/",
+    "name": "Kraken",
+    "coinigyId": "KRKN"
+  },
+  {
+    "exchange_id": "BTCCHINA",
+    "website": "https://www.btcchina.com/",
+    "name": "BTCCHINA",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITSTAMP",
+    "website": "https://www.bitstamp.net/",
+    "name": "Bitstamp Ltd.",
+    "coinigyId": "BITS"
+  },
+  {
+    "exchange_id": "OKCOIN_USD",
+    "website": "https://www.okcoin.com/",
+    "name": "OKCoin USD",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCTRADE",
+    "website": "https://www.btctrade.com/",
+    "name": "BTCTRADE",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "GEMINI",
+    "website": "https://gemini.com/",
+    "name": "Gemini",
+    "coinigyId": "GMNI"
+  },
+  {
+    "exchange_id": "ITBIT",
+    "website": "https://www.itbit.com/",
+    "name": "itBit",
+    "coinigyId": "ITBT"
+  },
+  {
+    "exchange_id": "HUOBI",
+    "website": "https://www.huobi.com/",
+    "name": "Huobi",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BINANCE",
+    "website": "https://www.binance.com/",
+    "name": "Binance",
+    "coinigyId": "BINA"
+  },
+  {
+    "exchange_id": "HITBTC",
+    "website": "https://hitbtc.io/",
+    "name": "HitBTC",
+    "coinigyId": "HITB"
+  },
+  {
+    "exchange_id": "BITHUMB",
+    "website": "https://www.bithumb.com/",
+    "name": "BITHUMB",
+    "coinigyId": "BTHM"
+  },
+  {
+    "exchange_id": "BTC-E",
+    "website": "https://btc-e.com/",
+    "name": "BTC-e",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINCHECK",
+    "website": "https://coincheck.com/",
+    "name": "coincheck",
+    "coinigyId": "CCJP"
+  },
+  {
+    "exchange_id": "COINONE",
+    "website": "https://coinone.co.kr/",
+    "name": "coinone",
+    "coinigyId": "CONE"
+  },
+  {
+    "exchange_id": "CRYPTOPIA",
+    "website": "https://www.cryptopia.co.nz/",
+    "name": "Cryptopia",
+    "coinigyId": "CPIA"
+  },
+  {
+    "exchange_id": "LIQUI",
+    "website": "https://liqui.io/",
+    "name": "Liqui",
+    "coinigyId": "LIQU"
+  },
+  {
+    "exchange_id": "EXMO",
+    "website": "https://exmo.com/",
+    "name": "EXMO",
+    "coinigyId": "EXMO"
+  },
+  {
+    "exchange_id": "CHBTC",
+    "website": "https://www.chbtc.com/",
+    "name": "CHBTC",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "HUOBIPRO",
+    "website": "https://www.huobi.pro/",
+    "name": "Huobi Pro",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "OKEX",
+    "website": "https://www.okex.com/",
+    "name": "OKEx",
+    "coinigyId": "OKEX"
+  },
+  {
+    "exchange_id": "YOBIT",
+    "website": "https://yobit.net/en/",
+    "name": "YObit",
+    "coinigyId": "YOBT"
+  },
+  {
+    "exchange_id": "KORBIT",
+    "website": "https://www.korbit.co.kr",
+    "name": "Korbit",
+    "coinigyId": "KBIT"
+  },
+  {
+    "exchange_id": "BITFLYER",
+    "website": "https://bitflyer.jp/",
+    "name": "bitFlyer",
+    "coinigyId": "FLYR"
+  },
+  {
+    "exchange_id": "JUBI",
+    "website": "https://www.jubi.com",
+    "name": "Jubi",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTC38",
+    "website": "http://www.btc38.com",
+    "name": "BTC38",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "MTGOX",
+    "website": "https://www.mtgox.com/",
+    "name": "BTC38",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "ZAIF",
+    "website": "https://zaif.jp/",
+    "name": "Zaif",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "LAKEBTC",
+    "website": "https://www.lakebtc.com/",
+    "name": "LakeBTC",
+    "coinigyId": "LAKE"
+  },
+  {
+    "exchange_id": "BLEUTRADE",
+    "website": "https://bleutrade.com",
+    "name": "Bleutrade",
+    "coinigyId": "BLEU"
+  },
+  {
+    "exchange_id": "GATEIO",
+    "website": "https://gate.io/",
+    "name": "Gate.io",
+    "coinigyId": "GATE"
+  },
+  {
+    "exchange_id": "BITMEX",
+    "website": "https://www.bitmex.com/",
+    "name": "BitMEX",
+    "coinigyId": "BMEX"
+  },
+  {
+    "exchange_id": "WEXNZ",
+    "website": "https://wex.nz/",
+    "name": "WexNz",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "ACX",
+    "website": "https://acx.io/",
+    "name": "ACX",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "KUCOIN",
+    "website": "https://kucoin.com/",
+    "name": "Kucoin",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITCOINID",
+    "website": "https://www.bitcoin.co.id/",
+    "name": "Bitcoin Indonesia",
+    "coinigyId": "BIND"
+  },
+  {
+    "exchange_id": "QUOINE",
+    "website": "https://www.qryptos.com/",
+    "name": "QRYPTOS",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITSO",
+    "website": "https://bitso.com/",
+    "name": "Bitso",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTER",
+    "website": "https://bter.com/",
+    "name": "Bter",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "VIRWOX",
+    "website": "https://www.virwox.com/",
+    "name": "BirWoX",
+    "coinigyId": "VWOX"
+  },
+  {
+    "exchange_id": "MERCADOBITCOIN",
+    "website": "https://www.mercadobitcoin.com.br/",
+    "name": "Mercado Bitcoin",
+    "coinigyId": "MERC"
+  },
+  {
+    "exchange_id": "THEROCKTRADING",
+    "website": "https://www.therocktrading.com/",
+    "name": "The Rock Trading",
+    "coinigyId": "ROCK"
+  },
+  {
+    "exchange_id": "LIVECOIN",
+    "website": "https://www.livecoin.net/",
+    "name": "LiveCoin",
+    "coinigyId": "LIVE"
+  },
+  {
+    "exchange_id": "TIDEX",
+    "website": "https://tidex.com/",
+    "name": "Tidex",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "MIXCOINS",
+    "website": "https://mixcoins.com/",
+    "name": "MixCoins",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITMARKET",
+    "website": "https://www.bitmarket.pl",
+    "name": "BitMarket",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "QUADRIGACX",
+    "website": "https://www.quadrigacx.com/",
+    "name": "QuadrigaCX",
+    "coinigyId": "QCX"
+  },
+  {
+    "exchange_id": "CCEX",
+    "website": "https://c-cex.com",
+    "name": "c-cex",
+    "coinigyId": "CCEX"
+  },
+  {
+    "exchange_id": "DERIBIT",
+    "website": "https://www.deribit.com/",
+    "name": "Deribit",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINNEST",
+    "website": "https://www.coinnest.co.kr/",
+    "name": "Coinnest",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "CEXIO",
+    "website": "https://cex.io/",
+    "name": "CEX.IO",
+    "coinigyId": "CXIO"
+  },
+  {
+    "exchange_id": "VAULTORO",
+    "website": "https://www.vaultoro.com/",
+    "name": "Vaultoro",
+    "coinigyId": "GOLD"
+  },
+  {
+    "exchange_id": "BTCMARKETS",
+    "website": "https://www.btcmarkets.net/",
+    "name": "BTC Markets Pty",
+    "coinigyId": "BTCM"
+  },
+  {
+    "exchange_id": "GATECOIN",
+    "website": "https://gatecoin.com/",
+    "name": "Gatecoin",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "LUNO",
+    "website": "https://www.luno.com",
+    "name": "Luno",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINMATE",
+    "website": "https://coinmate.io/",
+    "name": "Coin Mate",
+    "coinigyId": "MATE"
+  },
+  {
+    "exchange_id": "INDEPENDENTRESERVE",
+    "website": "https://www.independentreserve.com/",
+    "name": "Independent Reserve",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BXINTH",
+    "website": "https://bx.in.th/",
+    "name": "bx.in.th",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINFLOOR",
+    "website": "https://www.coinfloor.co.uk/",
+    "name": "coinfloor",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "QRYPTOS",
+    "website": "https://www.qryptos.com/",
+    "name": "QRYPTOS",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "GETBTC",
+    "website": "https://getbtc.org/",
+    "name": "GetBTC",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "ABUCOINS",
+    "website": "https://abucoins.com/",
+    "name": "Abucoins",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "ALLCOIN",
+    "website": "https://www.allcoin.com/",
+    "name": "Allcoin",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "DSX",
+    "website": "https://dsx.uk",
+    "name": "DSX",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCBOX",
+    "website": "https://www.btcbox.co.jp/",
+    "name": "BtcBox",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCTURK",
+    "website": "https://www.btcturk.com/",
+    "name": "BTCTurk",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCX",
+    "website": "https://bt.cx/en/",
+    "name": "bt.cx",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCTRADEUA",
+    "website": "https://btc-trade.com.ua/",
+    "name": "BTC Trade UA",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "SOUTHXCHANGE",
+    "website": "https://www.southxchange.com/",
+    "name": "SouthXchange",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "KUNA",
+    "website": "https://kuna.io/",
+    "name": "Kuna",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "YUNBI",
+    "website": "https://yunbi.com/",
+    "name": "YUNBI",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "FYBSG",
+    "website": "https://www.fybsg.com/",
+    "name": "FYB-SG",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITKONAN",
+    "website": "https://bitkonan.com/",
+    "name": "BitKonan",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BRAZILIEX",
+    "website": "https://braziliex.com/",
+    "name": "Braziliex",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "FYBSE",
+    "website": "https://www.fybse.se/",
+    "name": "FYB-SE",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BTCC",
+    "website": "https://www.btcc.com/",
+    "name": "BTCC",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "1BTCXE",
+    "website": "https://1btcxe.com/",
+    "name": "1Btcxe",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINGI",
+    "website": "https://coingi.com/",
+    "name": "Coingi",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITLISH",
+    "website": "https://bitlish.com/",
+    "name": "Bitlish",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "NOVA",
+    "website": "https://novaexchange.com/",
+    "name": "Novaexchange",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINSECURE",
+    "website": "https://coinsecure.in/",
+    "name": "Coinsecure",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "BITBAY",
+    "website": "https://www.bitbay.net/",
+    "name": "BitBay",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "VBTC",
+    "website": "https://vbtc.vn/",
+    "name": "VBTC.VN",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "XBTCE",
+    "website": "https://www.xbtce.com",
+    "name": "xBTCe",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "COINEXCHANGE",
+    "website": "https://www.coinexchange.io/",
+    "name": "CoinExchange",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "ANXPRO",
+    "website": "https://anxpro.com/",
+    "name": "ANXPro",
+    "coinigyId": ""
+  },
+  {
+    "exchange_id": "LYKKE",
+    "website": "https://www.lykke.com/",
+    "name": "Lykke",
+    "coinigyId": ""
+  }
+]
