@@ -82,7 +82,11 @@ export function fetchAllAssets (actionTypeResponse) {
 }
 export function fetchAllSymbols (actionTypeResponse) {
   // const results = JSON.parse(fs.readFileSync(`${process.cwd()}/src/api/coinApiData/allSymbols-abridged.json`, { encoding: 'utf8' }));
-  const results = JSON.parse(fs.readFileSync(`${process.cwd()}/src/api/coinApiData/allSymbols.json`, { encoding: 'utf8' }));
+  const results = JSON.parse(fs.readFileSync(`${process.cwd()}/src/api/coinApiData/allSymbolsBittrex.json`, { encoding: 'utf8' }));
+
+  // fs.writeFile(`${process.cwd()}/src/api/coinApiData/allSymbolsBittrex.json`, JSON.stringify(results.filter((x) => {
+  //   return (x.exchange_id ===  "BITTREX");
+  // })), 'utf8');
 
   const uniqueResults = [];
   results.forEach((result, i) => {
